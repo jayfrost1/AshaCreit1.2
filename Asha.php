@@ -7,6 +7,8 @@
             $response .= "1. Enter 1 to continue";
         }
 
+
+
 // when 1 is selectd following screen shows
     else if ($text == "1")
         {
